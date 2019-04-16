@@ -1,0 +1,7 @@
+C:\Learning\Restaurant\Restaurant\R1\bin\Debug\Epam.Mep.Restaurant.exe.config
+C:\Learning\Restaurant\Restaurant\R1\bin\Debug\Epam.Mep.Restaurant.exe
+C:\Learning\Restaurant\Restaurant\R1\bin\Debug\Epam.Mep.Restaurant.pdb
+C:\Learning\Restaurant\Restaurant\R1\obj\Debug\Restaurant.csprojAssemblyReference.cache
+C:\Learning\Restaurant\Restaurant\R1\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+C:\Learning\Restaurant\Restaurant\R1\obj\Debug\Epam.Mep.Restaurant.exe
+C:\Learning\Restaurant\Restaurant\R1\obj\Debug\Epam.Mep.Restaurant.pdb
